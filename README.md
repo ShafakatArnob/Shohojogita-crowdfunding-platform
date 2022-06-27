@@ -6,7 +6,7 @@
  
  ## Collaborators
   1. [Rajvir Ahmed Shuvo](https://github.com/Rajvira10).
-  2. [Ehsanur Rahman Rhythm](https://github.com/errhythm).
+  2. [Ehsanur Rahman Rhythm](https://github.com/errhythm)
   
   ## Technologies
    React.js - Node.js - Express.js - MySql
